@@ -1,0 +1,14 @@
+{
+  "name": "pithflow",
+  "displayName": "Pithflow",
+  "version": "1.34.0",
+  "description": "Read-only access to your Pithflow meeting notes, transcripts, dictionary, snippets and dictation usage.",
+  "author": {
+    "name": "Pithflow",
+    "url": "https://pithflow.com"
+  },
+  "homepage": "https://pithflow.com",
+  "repository": "https://github.com/0bad-dragon0/pithflow-claude-plugin",
+  "license": "MIT",
+  "keywords": ["dictation", "meeting-notes", "transcription", "voice", "productivity", "windows"]
+}

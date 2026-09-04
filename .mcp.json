@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pithflow": {
+      "type": "http",
+      "url": "https://api.pithflow.com/mcp"
+    }
+  }
+}
