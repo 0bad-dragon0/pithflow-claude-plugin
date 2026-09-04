@@ -1,5 +1,6 @@
 {
   "name": "pithflow",
+  "description": "Pithflow: read-only access to your meeting notes, transcripts, dictionary, snippets and dictation usage from Claude Code.",
   "owner": {
     "name": "Pithflow",
     "url": "https://pithflow.com"
