@@ -36,11 +36,17 @@ From the community marketplace, once listed:
 /plugin install pithflow@claude-community
 ```
 
-Or straight from this repository:
+Or straight from this repository, which doubles as a one-plugin marketplace:
 
 ```
 /plugin marketplace add 0bad-dragon0/pithflow-claude-plugin
-/plugin install pithflow
+/plugin install pithflow@pithflow
+```
+
+Or without touching marketplaces at all:
+
+```
+claude plugin install --plugin-source github --repo 0bad-dragon0/pithflow-claude-plugin
 ```
 
 The first tool call opens Pithflow's sign-in page in your browser. Sign in with your

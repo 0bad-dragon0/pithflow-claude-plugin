@@ -1,0 +1,14 @@
+{
+  "name": "pithflow",
+  "owner": {
+    "name": "Pithflow",
+    "url": "https://pithflow.com"
+  },
+  "plugins": [
+    {
+      "name": "pithflow",
+      "source": "./",
+      "description": "Read-only access to your Pithflow meeting notes, transcripts, dictionary, snippets and dictation usage."
+    }
+  ]
+}
