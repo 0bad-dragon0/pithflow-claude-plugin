@@ -4,7 +4,8 @@ Read-only access to your own [Pithflow](https://pithflow.com) data from Claude C
 recorded meetings (notes and full transcripts), your dictation dictionary, your snippets,
 and your usage totals.
 
-Pithflow is a Windows voice-dictation and meeting-notes app. This plugin connects Claude
+Pithflow is AI voice dictation for Windows, Mac and iPhone (Android keyboard in beta), with
+meeting notes on Windows. This plugin connects Claude
 Code to the same remote connector that Claude.ai, ChatGPT, Cursor and VS Code use — see
 the [connector docs](https://pithflow.com/docs/mcp/).
 
